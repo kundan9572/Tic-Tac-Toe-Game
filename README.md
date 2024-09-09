@@ -1,4 +1,12 @@
-# Tic-Tac-Toe-Game
+## Tic-Tac-Toe-Game
+
+#Screenshots
+
+<p>
+  <img src="assets/screenshot/pic1.png" alt="Screenshot 1" width="45%" style="display:inline-block;">
+  <img src="assets/screenshot/pic2.png" alt="Screenshot 2" width="45%" style="display:inline-block;">
+</p>
+
 
 ![Screenshot 1](assets/screenshot/pic1.PNG)
 
