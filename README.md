@@ -1,5 +1,18 @@
 # Tic-Tac-Toe-Game
 
+![Screenshot 1](assets/screenshots/pic1.png)
+
+![Screenshot 2](assets/screenshots/pic2.png)
+
+![Screenshot 1](assets/screenshots/pic3.png)
+
+![Screenshot 2](assets/screenshots/pic4.png)
+
+![Screenshot 1](assets/screenshots/pic5.png)
+
+![Screenshot 2](assets/screenshots/pic6.png)
+
+
 This is a basic Tic-Tac-Toe game built using React. 
 The game allows two players to take turns placing their marks (X and O) on a 3x3 grid. 
 The goal is to align three of their marks either horizontally, vertically, or diagonally before the opponent does.
