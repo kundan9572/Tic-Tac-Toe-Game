@@ -1,6 +1,6 @@
 # Tic-Tac-Toe-Game
 
-![Screenshot 1](assets/screenshot/pic1.png)
+![Screenshot 1](assets/screenshot/pic1.PNG)
 
 ![Screenshot 2](assets/screenshot/pic2.png)
 
