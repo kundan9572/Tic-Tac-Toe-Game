@@ -1,7 +1,5 @@
 ### Tic-Tac-Toe-Game
 
-Screenshots1
-
 <p>
   <img src="src/assets/screenshot/pic1.PNG" alt="Screenshot 1" width="45%" style="display:inline-block;">
   <img src="src/assets/screenshot/pic2.PNG" alt="Screenshot 2" width="45%" style="display:inline-block;">
