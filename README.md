@@ -1,25 +1,25 @@
 ## Tic-Tac-Toe-Game
 
-##Screenshots1
+Screenshots1
 
 <p>
   <img src="src/assets/screenshot/pic1.png" alt="Screenshot 1" width="45%" style="display:inline-block;">
   <img src="src/assets/screenshot/pic2.png" alt="Screenshot 2" width="45%" style="display:inline-block;">
 </p>
 
-##Screenshots3
+Screenshots3
 
 ![Screenshot 3](src/assets/screenshot/pic3.png)
 
-##Screenshots4
+Screenshots4
 
 ![Screenshot 4](assets/screenshot/pic4.png)
 
-##Screenshots5
+Screenshots5
 
 ![Screenshot 5](assets/screenshot/pic5.png)
 
-##Screenshots6
+Screenshots6
 
 ![Screenshot 6](assets/screenshot/pic6.png)
 
