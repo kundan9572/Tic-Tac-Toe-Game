@@ -3,25 +3,25 @@
 Screenshots1
 
 <p>
-  <img src="src/assets/screenshot/pic1.png" alt="Screenshot 1" width="45%" style="display:inline-block;">
+  <img src="src/assets/screenshot/pic1.PNG" alt="Screenshot 1" width="45%" style="display:inline-block;">
   <img src="src/assets/screenshot/pic2.PNG" alt="Screenshot 2" width="45%" style="display:inline-block;">
 </p>
 
 Screenshots3
 
-![Screenshot 3](src/assets/screenshot/pic3.png)
+![Screenshot 3](src/assets/screenshot/pic3.PNG)
 
 Screenshots4
 
-![Screenshot 4](assets/screenshot/pic4.png)
+![Screenshot 4](assets/screenshot/pic4.PNG)
 
 Screenshots5
 
-![Screenshot 5](assets/screenshot/pic5.png)
+![Screenshot 5](assets/screenshot/pic5.PNG)
 
 Screenshots6
 
-![Screenshot 6](assets/screenshot/pic6.png)
+![Screenshot 6](assets/screenshot/pic6.PNG)
 
 
 This is a basic Tic-Tac-Toe game built using React. 
